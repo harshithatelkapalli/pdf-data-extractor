@@ -1,0 +1,18 @@
+{
+    "fields": {
+        "customer_name": {
+            "page": 1,
+            "start_x": 100,
+            "start_y": 150,
+            "end_x": 450,
+            "end_y": 210
+        },
+        "invoice_number": {
+            "page": 1,
+            "start_x": 100,
+            "start_y": 220,
+            "end_x": 450,
+            "end_y": 280
+        }
+    }
+}
